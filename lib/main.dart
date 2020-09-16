@@ -9,7 +9,7 @@ void main() {
       debugShowCheckedModeBanner: false,
       routes:{
         "/": (context) => HomePage(),
-        "/splash" : (context) => MySplash(),
+        "/splash123" : (context) => MySplash(),
       }
     )
   );
