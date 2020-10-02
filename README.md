@@ -1,6 +1,6 @@
 # ml_flowerdetector_flutter
 
-A new Flutter project.
+A new Flutter application to predict the flowers and it's types. 
 
 ## Getting Started
 
